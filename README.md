@@ -56,12 +56,15 @@ module full_adder (
 endmodule
 ```
 **RTL Schematic**
+
 ![image](https://github.com/user-attachments/assets/b2e0e21c-7757-45a7-92b8-e211b2717d62)
 
 **Output Timing Waveform**
+
 ![image](https://github.com/user-attachments/assets/53f4b28f-6835-4919-a033-471fd4f3203f)
 
 **RESULTS:**
+
 The Ripple Carry Adder was successfully implemented in Verilog. The simulation results showed the correct sum and carry-out values for various input combinations, confirming the functionality of the design.
 
 
